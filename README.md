@@ -40,6 +40,8 @@ The application requires a JSON file for storing word meanings. The structure of
     "word1": [ "definition1"]
     "word2": ["definition1", "definition2"]
 }
+
+
 **Acknowledgments**
 Thanks to the Python and Tkinter communities for their resources and documentation.
 Special thanks to the pyttsx3 library for enabling text-to-speech features.
